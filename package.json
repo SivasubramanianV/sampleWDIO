@@ -29,6 +29,6 @@
   },
   "scripts": {
     "wdio": "wdio run ./wdio.conf.js",
-    "demo":"wdio run ./wdio.conf.js --spec ./test/demo.js"
+    "demo":"wdio run ./wdio.conf.js --spec ./demo.js"
   }
 }
